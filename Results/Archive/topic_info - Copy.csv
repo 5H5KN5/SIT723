@@ -1,0 +1,60 @@
+Topic,Count,Label,Representation,NPMI Coherence
+-1,188,Outliers,"['intervention', 'health', 'study', 'implementation', 'data']",-0.035611602072886474
+0,21,Physical Activity Interventions,"['activity', 'physical', 'physical activity', 'intervention', 'health']",0.12674448
+1,18,Social Behaviour Change Interventions,"['social', 'change', 'behavior', 'intervention', 'behaviour']",0.075751398
+2,15,Intervention Implementation Frameworks,"['implementation', 'framework', 'research', 'parihs', 'pace']",0.107681577
+3,15,Stroke Rehabilitation Interventions,"['stroke', 'intervention', 'cognitive', 'stroke survivors', 'survivors']",0.175094306
+4,12,Physical Physical Activity Interventions,"['physical', 'activity', 'intervention', 'participants', 'physical activity']",0.129293926
+5,11,Womens Health Interventions,"['women', 'intervention', 'health', 'condom', 'condoms']",0.089157532
+6,10,Smoking Cessation Interventions,"['smoking', 'smokers', 'quit', 'cessation', 'smoking cessation']",0.474510968
+7,10,Mental Health Care,"['mental', 'health', 'service', 'mental health', 'care']",0.208300204
+8,10,Child-Focussed Interventions and Trials,"['children', 'language', 'intervention', 'child', 'trial']",0.035656158
+9,9,Intervention Modification,"['practice', 'health', 'research', 'study', 'modifications']",-0.015791425503844856
+10,9,Behaviour Changes Theories,"['behaviour', 'health', 'theory', 'change', 'psychology']",0.166707965
+11,8,Intervention Adaptation,"['intervention', 'approaches', 'development', 'interventions', 'adaptation']",0.066812197
+12,8,Behaviour Change Research Domains,"['behaviour', 'domains', 'change', 'studies', 'intervention']",0.07395836
+13,7,Patient Focussed Mental Health Care,"['anxiety', 'patients', 'care', 'mental', 'disorders']",0.169069998
+14,7,Child Focussed Physical Activity Interventions,"['media', 'children', 'intervention', 'physical', 'play']",0.022257187
+15,7,Alcohol Consumptions Interventions,"['alcohol', 'community', 'drinking', 'consumption', 'intervention']",0.130465917
+16,7,Implementation and Training Strategies,"['kernels', 'training', 'implementation', 'behavior', 'school']",-0.13046473093005542
+17,7,Nutrition and Dieting Interventions,"['food', 'sample', 'craving', 'control', 'study']",0.080008175
+18,6,Music Therapy Interventions,"['music', 'music therapy', 'group', 'therapy', 'singing']",0.220233134
+19,6,Weight Loss Interventions ,"['weight', 'loss', 'weight loss', 'participants', 'intervention']",0.138390546
+20,6,Infants and Parents,"['infants', 'study', 'parents', 'tasks', 'infant']",0.128281397
+21,6,Childcare Service Interventions,"['childcare', 'children', 'intervention', 'healthy', 'services']",0.078939903
+22,6,Veterans Focussed Interventions,"['veterans', 'missionvet', 'implementation', 'hudvash', 'case']",0.277385021
+23,5,Cancer-Related Interventions,"['cancer', 'oncology', 'intervention', 'stress', 'care']",0.060125963
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

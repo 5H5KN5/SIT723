@@ -1,0 +1,25 @@
+Topic,Count,Name,Representation,NPMI Coherence
+0,7,0_music_music therapy_group_therapy,"['music', 'music therapy', 'group', 'therapy', 'singing', 'study', 'stress', 'participants', 'life', 'intervention']",Topic 0: 0.2202331335476623
+1,15,1_stroke_intervention_cognitive_stroke survivors,"['stroke', 'intervention', 'cognitive', 'stroke survivors', 'study', 'survivors', 'rehabilitation', 'activity', 'behaviour', 'dementia']",Topic 1: 0.014358975835572158
+2,10,2_alcohol_consumption_community_drinking,"['alcohol', 'consumption', 'community', 'drinking', 'alcohol consumption', 'intervention', 'health', 'interventions', 'behavior', 'study']",Topic 2: 0.2573507316408746
+3,16,3_implementation_school_health_strategies,"['implementation', 'school', 'health', 'strategies', 'training', 'mental', 'mental health', 'study', 'organizational', 'safecare']",Topic 3: 0.012022783893600782
+4,13,4_children_language_intervention_trial,"['children', 'language', 'intervention', 'trial', 'child', 'parents', 'feasibility', 'study', 'data', 'communication']",Topic 4: 0.03565615757529672
+5,12,5_patients_care_anxiety_mental,"['patients', 'care', 'anxiety', 'mental', 'implementation', 'depression', 'treatment', 'primary', 'study', 'patient']",Topic 5: 0.04757680315361966
+6,15,6_veterans_implementation_missionvet_health,"['veterans', 'implementation', 'missionvet', 'health', 'intervention', 'data', 'care', 'study', 'sites', 'peer']",Topic 6: 0.03501770946569016
+7,12,7_mental_care_health_mental health,"['mental', 'care', 'health', 'mental health', 'study', 'depression', 'service', 'intervention', 'participants', 'trial']",Topic 7: 0.11965235567633196
+8,15,8_participants_physical_intervention_activity,"['participants', 'physical', 'intervention', 'activity', 'physical activity', 'interventions', 'behaviour', 'health', 'active', 'study']",Topic 8: 0.1292939258161842
+9,23,9_cancer_intervention_care_interventions,"['cancer', 'intervention', 'care', 'interventions', 'violence', 'studies', 'study', 'research', 'health', 'oncology']",Topic 9: -0.07356712693595092
+10,27,10_intervention_health_group_women,"['intervention', 'health', 'group', 'women', 'study', 'participants', 'implementation', 'feasibility', 'family', 'mental']",Topic 10: -0.018233489785938348
+11,12,11_smoking_smokers_quit_cessation,"['smoking', 'smokers', 'quit', 'cessation', 'home', 'smoking cessation', 'health', 'tobacco', 'intervention', 'study']",Topic 11: 0.3401028508959774
+12,18,12_behaviour_health_change_theory,"['behaviour', 'health', 'change', 'theory', 'psychology', 'behaviour change', 'interventions', 'behavior', 'health psychology', 'theories']",Topic 12: 0.16670796516766523
+13,20,13_intervention_health_research_implementation,"['intervention', 'health', 'research', 'implementation', 'interventions', 'development', 'approaches', 'community', 'process', 'adaptation']",Topic 13: 0.005672048803301552
+14,15,14_practice_intervention_implementation_health,"['practice', 'intervention', 'implementation', 'health', 'study', 'patient', 'patients', 'knowledge', 'nurses', 'research']",Topic 14: -0.018784779360867497
+15,15,15_behaviour_change_intervention_behaviour change,"['behaviour', 'change', 'intervention', 'behaviour change', 'interventions', 'studies', 'domains', 'methods', 'research', 'science']",Topic 15: 0.14508437455855336
+16,25,16_implementation_cfir_research_framework,"['implementation', 'cfir', 'research', 'framework', 'studies', 'science', 'outcomes', 'implementation science', 'constructs', 'practice']",Topic 16: 0.11074005334190903
+17,12,17_weight_loss_weight loss_participants,"['weight', 'loss', 'weight loss', 'participants', 'activity', 'intervention', 'physical', 'physical activity', 'program', 'study']",Topic 17: 0.15160829228083292
+18,14,18_food_control_sample_behavior,"['food', 'control', 'sample', 'behavior', 'study', 'intervention', 'change', 'participants', 'diabetes', 'activity']",Topic 18: -0.008492810108097094
+19,33,19_intervention_change_behaviour_social,"['intervention', 'change', 'behaviour', 'social', 'behavior', 'interventions', 'health', 'research', 'behavioral', 'theory']",Topic 19: 0.07575139764677444
+20,17,20_study_intervention_health_infants,"['study', 'intervention', 'health', 'infants', 'mental', 'training', 'feasibility', 'participants', 'mental health', 'trial']",Topic 20: 0.007844277530553771
+21,16,21_intervention_health_interventions_bcts,"['intervention', 'health', 'interventions', 'bcts', 'study', 'children', 'childcare', 'breastfeeding', 'healthy', 'feeding']",Topic 21: -0.01834615135291598
+22,34,22_activity_physical_physical activity_intervention,"['activity', 'physical', 'physical activity', 'intervention', 'health', 'time', 'participants', 'study', 'children', 'data']",Topic 22: 0.12674448021325446
+23,18,23_intervention_study_pain_data,"['intervention', 'study', 'pain', 'data', 'media', 'participants', 'physical', 'children', 'health', 'studies']",Topic 23: -0.08893498261289053
